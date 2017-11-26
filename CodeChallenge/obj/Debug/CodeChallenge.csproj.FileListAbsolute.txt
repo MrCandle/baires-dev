@@ -1,0 +1,12 @@
+c:\users\gastón\documents\visual studio 2015\Projects\CodeChallenge\CodeChallenge\bin\Debug\PeopleToRate.txt
+c:\users\gastón\documents\visual studio 2015\Projects\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe.config
+c:\users\gastón\documents\visual studio 2015\Projects\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe
+c:\users\gastón\documents\visual studio 2015\Projects\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.pdb
+c:\users\gastón\documents\visual studio 2015\Projects\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.exe
+c:\users\gastón\documents\visual studio 2015\Projects\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.pdb
+C:\Users\rodrigo.vela\Downloads\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe.config
+C:\Users\rodrigo.vela\Downloads\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.exe
+C:\Users\rodrigo.vela\Downloads\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.pdb
+C:\Users\rodrigo.vela\Downloads\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe
+C:\Users\rodrigo.vela\Downloads\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.pdb
+C:\Users\rodrigo.vela\Downloads\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csprojResolveAssemblyReference.cache
